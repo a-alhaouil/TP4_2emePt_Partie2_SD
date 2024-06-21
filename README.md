@@ -1,27 +1,26 @@
-# 2emePartiePart1
+# 2eme Partie Part2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
+## Deuxième Partie :
+### Créer une application web Angular qui permet de gérer des produits avec un backend basé sur Json-server
+### Part 2-https://www.youtube.com/watch?v=h0zPn2d4fGI&authuser=0
+getProducts() apres modification:
+![Capture d'écran 2024-06-21 092817](https://github.com/a-alhaouil/TP4_2emePt_Partie2_SD/assets/152272492/b7ebd20c-7fd6-46ac-ba9f-a86b746c6c6f)
 
-## Development server
+Modification de getProducts pour recevoir nombre de pages :
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Capture d'écran 2024-06-21 092959](https://github.com/a-alhaouil/TP4_2emePt_Partie2_SD/assets/152272492/06850605-bcd2-4249-9686-e0bef59d2e6d)
 
-## Code scaffolding
+ajout de la pagination:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://github.com/a-alhaouil/TP4_2emePt_Partie2_SD/assets/152272492/724b47c4-2b9a-4dd4-b85b-6bf003c831ed)
 
-## Build
+resultat:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Capture d'écran 2024-06-21 093215](https://github.com/a-alhaouil/TP4_2emePt_Partie2_SD/assets/152272492/bc1d6ee3-6955-4e14-879b-89bddc22d74f)
 
-## Running unit tests
+ajout de boutons pur faire edit:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Capture d'écran 2024-06-21 093420](https://github.com/a-alhaouil/TP4_2emePt_Partie2_SD/assets/152272492/b06387c2-a30d-4e5a-a6f1-7da1a3ede513)
+template de edit-product :
+![Capture d'écran 2024-06-21 084655](https://github.com/a-alhaouil/TP4_2emePt_Partie2_SD/assets/152272492/692f497c-bef7-403a-9ee9-5c1abce8f1f0)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
